@@ -2,9 +2,6 @@
 
 ## 🚀 End-to-End Data Analytics Project
 
-A complete analytics project using **Web Scraping, Python, SQL, and Power BI** to uncover smartphone market trends on Flipkart.
-
-This project analyzes **449 smartphone listings** from leading brands to understand customer preferences, pricing strategy, ratings, discounts, and market competition.
 
 ---
 
