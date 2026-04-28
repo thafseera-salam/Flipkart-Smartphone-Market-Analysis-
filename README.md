@@ -138,6 +138,14 @@ Exploratory Data Analysis was performed to answer key business questions such as
 ## 📷 Dashboard Preview
 
 [Dahboard](https://github.com/thafseera-salam/Flipkart-Smartphone-Market-Analysis-/blob/main/Screenshot%201.png)
+
+<img width="1101" height="618" alt="Screenshot 1" src="https://github.com/user-attachments/assets/d3a1eb06-db2a-420d-bd97-ddfd474cbcb5" />
+
+.
+
+<img width="1094" height="618" alt="Screenshot 2" src="https://github.com/user-attachments/assets/0fd38c5f-35eb-4484-b65f-b1ac90a78c3a" />
+
+
 ---
 
 ##  Author
