@@ -1,4 +1,4 @@
-# 📱 Flipkart Smartphone Market Analysis
+# 📱 Flipkart Smartphone Competitive Intelligence: Data-Driven Market Analysis
 
 ## 🚀 End-to-End Data Analytics Project
 
