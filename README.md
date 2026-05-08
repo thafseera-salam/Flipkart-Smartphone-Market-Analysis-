@@ -149,4 +149,4 @@ Aspiring Data Analyst | Python | SQL | Power BI
 
 ---
 
-## ⭐ If you found this project useful, feel free to star this repository.
+⭐ *If this strategic audit provides value to your organization, feel free to star this repository.*
