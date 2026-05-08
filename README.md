@@ -2,12 +2,13 @@
 
 ## 🚀 End-to-End Data Analytics Project
 
+> **Executive Overview:** This project delivers a high-impact **Competitive Intelligence Audit** of the Indian smartphone market using real-time data scraped from Flipkart. By engineering a custom "Popularity Index" and analyzing discount elasticity across **449 product listings**, this study identifies the core battlegrounds for 6 major global manufacturers and provides actionable insights into consumer demand patterns.
+
 
 ---
 
 ## 📑 Table of Contents
 
-- [Overview](#-overview)  
 - [Data Source](#-data-source)  
 - [Dataset](#-dataset)  
 - [Tools Used](#-tools-used)  
@@ -19,13 +20,6 @@
 - [References](#-references)  
 - [Dashboard Preview](#-dashboard-preview)  
 - [Author](#author)  
-
----
-
-##  📌 Overview
-
-Flipkart is one of India's leading e-commerce platforms with intense smartphone competition.  
-This project transforms raw listing data into valuable insights on pricing, discounts, ratings, features, and market segmentation.
 
 ---
 
